@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+This fork of the gem is no longer used by any applications at Wealthsimple so is being archived.
+
+
 FuelSDK-Ruby / MarketingCloudSDK-Ruby
 =====================================
 
